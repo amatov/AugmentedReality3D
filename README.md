@@ -1,1 +1,2 @@
-### Augmented Reality code in C## and Unity
+### Augmented Reality with Unity
+### C# code I wrote in 2017
