@@ -1,7 +1,6 @@
 ### Augmented reality
 
 A weather app I developed.
-C# code I wrote in 2017
 
 ## Quick start
 
