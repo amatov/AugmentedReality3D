@@ -9,7 +9,7 @@ This repository contains a Unity/C# augmented reality application for
 smartphones, smart glasses, laptops, and desktop computers. It overlays real-time weather forecast information -- icons for
 sun, rain, wind, and other metrics -- on the live camera view of the
 area the device is pointed at; this is demonstrated in the videos in
-`media/`. Building the project requires the Unity ARKit Plugin (see
+[`media/`](media/). Building the project requires the Unity ARKit Plugin (see
 [DEPENDENCIES.md](DEPENDENCIES.md)).
 
 ## Repository contents
@@ -22,7 +22,7 @@ area the device is pointed at; this is demonstrated in the videos in
 - `PanWM.cs`, `ParticlePainter.cs`, `particleAttractor*.cs`,
   `rotation.cs`, `SpinningCube.cs`, `transparency.cs`, `visibility.cs`
   -- supporting Unity scripts.
-- `media/` -- demonstration videos of the app in use, including the
+- [`media/`](media/) -- demonstration videos of the app in use, including the
   weather-forecast overlay.
 - **License:** see [LICENSE](LICENSE) -- research/educational use.
 
