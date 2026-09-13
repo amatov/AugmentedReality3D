@@ -1,4 +1,4 @@
-### Augmented reality
+## Augmented reality
 
 A weather app I developed.
 
