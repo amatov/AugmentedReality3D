@@ -1,6 +1,6 @@
 ### Augmented reality
 
-This is an application I developed for smartphones, smart glasses, laptops, and desktop computers
+A weather app I developed for smartphones, smart glasses, laptops, and desktop computers
 C# code I wrote in 2017
 
 ## Quick start
